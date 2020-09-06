@@ -27,3 +27,4 @@ From: ubuntu:20.04
    cd CLASS-2.1.7
    sh build.sh
    make
+#   make install
